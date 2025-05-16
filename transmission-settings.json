@@ -1,0 +1,8 @@
+{
+    "download-dir": "/download",
+    "rpc-enabled": true,
+    "rpc-bind-address": "0.0.0.0",
+    "rpc-port": 8082,
+    "rpc-whitelist-enabled": false,
+    "rpc-authentication-required": false
+}
